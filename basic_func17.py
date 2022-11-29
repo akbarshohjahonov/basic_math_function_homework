@@ -3,6 +3,5 @@
 # Assign the value pi to the variable "a" and return.
 from math import pi
 def main(a):
-    return(a)
-a=pi
-print(main(a))
+    a=pi
+    return a
