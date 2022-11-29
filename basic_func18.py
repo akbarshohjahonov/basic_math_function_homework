@@ -4,6 +4,6 @@
 # Round the result to 2 decimal places.
 from math import pi
 def main(a):
-    return (a)
-a=pi
-print(round(a,2))
+    a=pi
+    return pi
+print(round(pi,2))
