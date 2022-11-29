@@ -2,5 +2,7 @@
 # Create function argument a.
 # Returns the square root of a number.
 import math
-a=math.sqrt(36)
-print(a)
+def main(a):
+    return math.sqrt(a)
+
+print(main(36))
